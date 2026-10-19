@@ -30,7 +30,7 @@ My college work has included Java applications, web development, database design
 | Cloud & containers | AWS, Docker, Red Hat OpenShift |
 | Networking | Network configuration and analysis, Cisco Packet Tracer |
 | Applications & databases | JavaFX, Scene Builder, MySQL |
-| Development tools | Git, IntelliJ IDEA, Eclipse, Android Studio |
+| Development tools | Git, IntelliJ IDEA, Android Studio |
 | Operating systems | Windows, Linux, Android |
 ---
 
