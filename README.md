@@ -23,14 +23,15 @@ My college work has included Java applications, web development, database design
 
 | Area | Technologies |
 | :--- | :--- |
-| Programming | Java, Python, JavaScript, Kotlin, C |
+| Programming | Python, Java, Kotlin, C, JavaScript, TypeScript, SQL |
 | Web development | HTML, CSS, React, JSON |
-| Applications & databases | JavaFX, SceneBuilder, MySQL |
-| Cloud & DevOps tools | AWS EC2, Docker, Red Hat OpenShift, Git |
-| Security testing | Burp Suite, Metasploitable lab environments |
-| Digital forensics | Autopsy, The Sleuth Kit, `dd`, file hashing |
-| Networking | Wireshark, Cisco Packet Tracer |
-| Automation & support | Workflow automation, troubleshooting, technical documentation |
+| Security tools | Wireshark, Burp Suite, Nmap, Metasploit, VirusTotal |
+| Digital forensics | Autopsy, FTK Imager, The Sleuth Kit, `dd`, file hashing |
+| Cloud & containers | AWS, Docker, Red Hat OpenShift |
+| Networking | Network configuration and analysis, Cisco Packet Tracer |
+| Applications & databases | JavaFX, Scene Builder, MySQL |
+| Development tools | Git, IntelliJ IDEA, Eclipse, Android Studio |
+| Operating systems | Windows, Linux, Android |
 ---
 
 <div align="center">
